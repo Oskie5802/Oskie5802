@@ -7,7 +7,7 @@
   
   <h3>
     16-year-old developer & innovator 
-    <img src="https://cdn-icons-png.flaticon.com/512/197/197573.png" width="28" height="20" alt="Poland">
+    <img src="https://www.vecteezy.com/vector-art/50515105-national-flag-of-poland-circle-flag-icon-badge" width="28" height="20" alt="Poland">
     Poland
   </h3>
   
