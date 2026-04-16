@@ -12,8 +12,7 @@
   
   <p><strong>If you need something — just do it yourself instead of looking for it.</strong></p>
   
-  <img src="https://img.shields.io/badge/Building%20the%20future-Mobile%20%26%20AI-00d4ff?style=for-the-badge" alt="Building">
-  <img src="https://img.shields.io/badge/Currently%20Focused-Clean%20UI%20%26%20Real%20Products-00d4ff?style=for-the-badge" alt="Focused">
+
   
   <br><br>
   <a href="https://oskarminor.com" target="_blank">
