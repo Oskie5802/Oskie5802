@@ -6,8 +6,7 @@
   <h1>👋 Hi, I'm Oskar Minor</h1>
   
   <h3>
-    16-year-old developer & innovator 
-    <img src="https://www.vecteezy.com/vector-art/50515105-national-flag-of-poland-circle-flag-icon-badge" width="28" height="20" alt="Poland">
+    17-year-old developer & innovator 
     Poland
   </h3>
   
